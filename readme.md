@@ -15,7 +15,6 @@ This project demonstrates image classification using a **Convolutional Neural Ne
 
 - [Project Overview](#-project-overview)
 - [Features](#-features)
-- [Demo](#-demo)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Results](#-results)
@@ -29,12 +28,7 @@ This project demonstrates image classification using a **Convolutional Neural Ne
 - 📊 Detailed Training and Validation Metrics
 - 📈 Visualization of Training Process
 - 🛠 Easy to Install and Use
-
-## 🎯 Demo
-
-Here's a quick demo of the image classification project:
-
-![Demo GIF](https://user-images.githubusercontent.com/your-image-url/demo.gif)
+- 
 
 ## 🛠️ Installation
 
